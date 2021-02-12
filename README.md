@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ECHO
 
 You can use the [editor on GitHub](https://github.com/HGK-Co-Lab/Echo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
